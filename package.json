@@ -1,0 +1,14 @@
+{
+  "name": "sanber-47-javascript",
+  "version": "1.0.0",
+  "description": "learn javascript with Sanbercode batch 47",
+  "main": "index.js",
+  "scripts": {
+    "start": "node print.js"
+  },
+  "author": "irfansyahali",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
