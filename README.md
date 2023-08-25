@@ -5,6 +5,8 @@ Welcome to Javascript Introduction from Sanbercode.  This is a brief introductio
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Run](#run)
+- [Results](#results)
 
 ## Introduction
 
@@ -22,7 +24,7 @@ List the key features:
   7. Printing
   8. Variables
 
-## How to Run
+## Run
 node fileName.js
 
 example: node object.js
