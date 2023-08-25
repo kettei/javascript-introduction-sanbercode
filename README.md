@@ -21,3 +21,12 @@ List the key features:
   6. Objects
   7. Printing
   8. Variables
+
+## How to Run
+node fileName.js
+
+example: node object.js
+
+## Results
+
+![image](https://github.com/kettei/javascript-introduction-sanbercode-47/assets/42662172/aa53c658-b1e9-4504-93ca-bdffa2726e60)
